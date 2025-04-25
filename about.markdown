@@ -4,15 +4,10 @@ title: Über uns
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Wir sind ein Team aus vier engagierten Bachelorstudierenden der Hochschule Luzern im Modul „Integrales Informatik 
+Praxisprojekt“ (IIP) des Departements Informatik. \n\nUnser gemeinsames Ziel ist es, eine praxisnahe und zukunftsfähige 
+Lösung für aktuelle Herausforderungen in der Landwirtschaft zu entwickeln. Mit unserer Plattform wollen wir 
+Landwirtinnen und Landwirten den Alltag erleichtern – durch eine digitale Anwendung, die nicht nur Prozesse 
+vereinfacht, sondern auch Nachhaltigkeit und Effizienz in der Landwirtschaft fördert. \n\nUnsere Vision ist es, die 
+Landwirtschaft durch innovative Technologien zu unterstützen und eine Plattform zu schaffen, die echten Mehrwert bietet 
+– einfach, verständlich und zuverlässig.
